@@ -4,7 +4,7 @@
 
 [![X:Azizmaghsuomi](https://img.shields.io/twitter/follow/azizmaghsuomi?style=social)](https://x.com/Azizmaghsuomi?s=09)
 [instagram](https://www.instagram.com/aziz_maghsuomi?igsh=dnpteHB2bWdpdnpy)
-[![Linkedin:Azizmaghsuomi](https://img.shields.io/badge/-azizmaghsuomi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aziz-maghsuomi-375537302/)]
+[![Linkedin:Azizmaghsuomi](https://img.shields.io/linkedin/follow/azizmaghsuomi?style=social)](https://www.linkedin.com/in/aziz-maghsuomi-375537302/)
 [![GitHub Azizmaghsuomi](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/azizmaghsuomi)
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
