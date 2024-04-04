@@ -3,7 +3,6 @@
 ## I'm always learning and growing, and I enjoy acquiring new experiences. I'm keen to collaborate with diverse teams and share my knowledge and experiences with others.
 
 [![X:Azizmaghsuomi](https://img.shields.io/twitter/follow/azizmaghsuomi?style=social)](https://x.com/Azizmaghsuomi?s=09)
-[instagram](https://www.instagram.com/aziz_maghsuomi?igsh=dnpteHB2bWdpdnpy)
 [![Linkedin: aliysefian](https://img.shields.io/badge/-azizmaghsuomi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aliysefian/)](https://www.linkedin.com/in/aziz-maghsuomi-375537302/)
 [![GitHub Azizmaghsuomi](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/azizmaghsuomi)
 
