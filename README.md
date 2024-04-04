@@ -2,6 +2,9 @@
 
 i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 
+[![Twitter: aliysefian](https://img.shields.io/twitter/follow/aliysefian?style=social)](https://twitter.com/azizmaghsuomi)
+[![Linkedin: aliysefian](https://img.shields.io/badge/-aliysefian-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aliysefian/)](https://www.linkedin.com/in/azizmaghsuomi/)
+[![GitHub aliysefian](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/azizmaghsuomi)
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
