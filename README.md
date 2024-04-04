@@ -1,6 +1,6 @@
-### Hi, I'm **Azizmaghsuomi** a passionate self-taught frontend developer and a freelance software engineer from iran. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
+### Hi, I'm **Azizmaghsuomi** a passionate self-taught frontend developer As a front-end developer, I'm passionate about crafting exceptional user experiences and beautiful visual designs. I thrive on tackling new challenges and constantly learning new technologies in the web development field.
 
-i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
+## I'm always learning and growing, and I enjoy acquiring new experiences. I'm keen to collaborate with diverse teams and share my knowledge and experiences with others.
 
 [![X:Azizmaghsuomi](https://img.shields.io/twitter/follow/azizmaghsuomi?style=social)](https://x.com/Azizmaghsuomi?s=09)
 [instagram](https://www.instagram.com/aziz_maghsuomi?igsh=dnpteHB2bWdpdnpy)
