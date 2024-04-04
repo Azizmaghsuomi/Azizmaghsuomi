@@ -1,6 +1,6 @@
-### Hi, I'm **Azizmaghsuomi** a passionate self-taught frontend developer As a front-end developer, I'm passionate about crafting exceptional user experiences and beautiful visual designs. I thrive on tackling new challenges and constantly learning new technologies in the web development field.
+ Hi, I'm **Azizmaghsuomi** a passionate self-taught frontend developer As a front-end developer, I'm passionate about crafting exceptional user experiences and beautiful visual designs. I thrive on tackling new challenges and constantly learning new technologies in the web development field.
 
-## I'm always learning and growing, and I enjoy acquiring new experiences. I'm keen to collaborate with diverse teams and share my knowledge and experiences with others.
+I'm always learning and growing, and I enjoy acquiring new experiences. I'm keen to collaborate with diverse teams and share my knowledge and experiences with others.
 
 [![X:Azizmaghsuomi](https://img.shields.io/twitter/follow/azizmaghsuomi?style=social)](https://x.com/Azizmaghsuomi?s=09)
 [![Linkedin: aliysefian](https://img.shields.io/badge/-azizmaghsuomi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aliysefian/)](https://www.linkedin.com/in/aziz-maghsuomi-375537302/)
