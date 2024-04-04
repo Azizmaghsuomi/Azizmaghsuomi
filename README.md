@@ -3,6 +3,7 @@
 i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 
 [![X:Azizmaghsuomi](https://img.shields.io/twitter/follow/azizmaghsuomi?style=social)](https://x.com/Azizmaghsuomi?s=09)
+[![instagram](https://img.shields.io/instagram/follow/aziz_maghsuomi?style=social)]([https://x.com/Azizmaghsuomi?s=09](https://www.instagram.com/azizmaghsuomi?igsh=dnpteHB2bWdpdnpy))
 [![Linkedin:Azizmaghsuomi](https://img.shields.io/badge/-azizmaghsuomi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aliysefian/)](https://www.linkedin.com/in/azizmaghsuomi/)
 [![GitHub Azizmaghsuomi](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/azizmaghsuomi)
 
@@ -18,6 +19,9 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scss/scss.png"></code>
 
 📊 **this week i spent my time on:**
 <!--START_SECTION:waka-->
@@ -26,7 +30,7 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 javaScript   17 hr 11 mins    ███████████░░░░░░░░░░░░░░   44.46 %
 JSON         2  hr 35 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.32 %
 scss         1  hr 1 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   07.36 %
-Other        8 hr 30 mins     ████████████░░░░░░░░░░░░░░░░░   42.75 %
+Other        8 hr 30 mins     ████████████░░░░░░░░░░░░░   42.75 %
 ```
 
 <!--END_SECTION:waka-->
