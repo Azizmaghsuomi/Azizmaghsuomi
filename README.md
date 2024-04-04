@@ -3,7 +3,8 @@
 i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 
 [![X:Azizmaghsuomi](https://img.shields.io/twitter/follow/azizmaghsuomi?style=social)](https://x.com/Azizmaghsuomi?s=09)
-[![instagram](https://img.shields.io/instagram/follow/instagram?style=social)](https://www.instagram.com/aziz_maghsuomi?igsh=dnpteHB2bWdpdnpy)
+[![instagram][<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>](https://www.instagram.com/aziz_maghsuomi?igsh=dnpteHB2bWdpdnpy)
 [![Linkedin:Azizmaghsuomi](https://img.shields.io/badge/-azizmaghsuomi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aliysefian/)](https://www.linkedin.com/in/azizmaghsuomi/)
 [![GitHub Azizmaghsuomi](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/azizmaghsuomi)
 
