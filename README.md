@@ -2,7 +2,7 @@
 
 i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 
-[![X:Azizmaghsuomi](https://img.shields.io/X/follow/azizmaghsuomi?style=social)](https://X.com/azizmaghsuomi)
+[![X:Azizmaghsuomi](https://img.shields.io/twitter/follow/azizmaghsuomi?style=social)](https://x.com/Azizmaghsuomi?s=09)
 [![Linkedin:Azizmaghsuomi](https://img.shields.io/badge/-azizmaghsuomi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aliysefian/)](https://www.linkedin.com/in/azizmaghsuomi/)
 [![GitHub Azizmaghsuomi](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/azizmaghsuomi)
 
